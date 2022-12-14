@@ -2,11 +2,11 @@
 <img align="right" width="400px"><img src="https://cdn.dribbble.com/users/497319/screenshots/1979933/applewatch_animation.gif">
 <p align="left">
 <h1 align="center">Hi 👋, I'm Wasim Khan</h1>
-<p align="left"> <img src="" alt="adlavyt" /> </p>
+
 
 - 🔭 I’m currently working on **php**
 
-- 🌱 I’m currently learning **php and javaScript**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **https://www.instagram.com/adlavayt**
 
